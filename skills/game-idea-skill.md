@@ -18,7 +18,7 @@ The player wins when all pairs have been
 - Mobile: [Touch controls]
 
 ### Development Difficulty
-[Easy / Medium]
+Easy
 
 ### Development Notes
 Use HTML for the cards, CSS for layout and appearance, and JavaScript to control the game logic
