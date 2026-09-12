@@ -81,12 +81,12 @@ function checkMatch() {
         matchedPairs++;
         pairsDisplay.textContent = matchedPairs;
 
-        resetTurn();
-
-        if (matchedPairs === 😎 {
+        if (matchedPairs === 8) {
             message.textContent =
-               🎉 You won in ${moves} moves!`;
+                `🎉 You won in ${moves} moves!`;
         }
+
+        resetTurn();
     } else {
         locked = true;
 
