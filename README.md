@@ -21,7 +21,6 @@ The game will include:
 - A clear engding
 - A restart button
 - Mouse controls
-- Touch controls for mobile devices
 
 ## Learning Notes
 
