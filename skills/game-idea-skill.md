@@ -15,7 +15,6 @@ The player wins when all pairs have been
 
 ### Controls
 - Desktop: [Mouse controls]
-- Mobile: [Touch controls]
 
 ### Development Difficulty
 Easy
